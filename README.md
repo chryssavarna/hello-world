@@ -1,3 +1,4 @@
 # hello-world
-Knowing how to use Github
+
+Learning how to use Github by creating Hello World Python Script
 
